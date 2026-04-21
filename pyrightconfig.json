@@ -1,0 +1,11 @@
+{
+  "typeCheckingMode": "basic",
+  "reportUnknownVariableType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownFunctionMemberType": false,
+  "reportAttributeAccessIssue": false,
+  "reportOptionalMemberAccess": false,
+  "reportGeneralTypeIssues": true
+}
